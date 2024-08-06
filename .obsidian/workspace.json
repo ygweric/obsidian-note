@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "goodsfd.md",
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e980602cfb9162a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.MD.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8fb2904dc909a5c5",
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "goodsfd.md",
+                "file": "README.MD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "goodsfd.md",
+                "file": "README.MD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "goodsfd.md"
+                "file": "README.MD.md"
               }
             }
           }
@@ -164,9 +177,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91bebcd0af56a596",
+  "active": "e980602cfb9162a1",
   "lastOpenFiles": [
+    "Pasted image 20240806090241.png",
     "Welcome.md",
+    "README.MD.md",
     "goodsfd.md",
     "image/没有.png",
     "image/Pasted image 20240806083248.png",

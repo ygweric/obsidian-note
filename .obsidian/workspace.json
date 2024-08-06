@@ -6,6 +6,7 @@
       {
         "id": "8bd9523c19de0b9c",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "91bebcd0af56a596",
@@ -35,16 +36,17 @@
         "currentTab": 1
       },
       {
-        "id": "8fb2904dc909a5c5",
+        "id": "58402714c56a5079",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
-            "id": "e7a42afdac9d78a0",
+            "id": "9637e891418e4b7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "goodsfd.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -177,12 +179,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8160ae6254c23b97",
+  "active": "e980602cfb9162a1",
   "lastOpenFiles": [
+    "goodsfd.md",
+    "README.md",
+    "Pasted image 20240806090808.png",
+    "Pasted image 20240806090801.png",
+    "Pasted image 20240806090753.png",
     "Pasted image 20240806090241.png",
     "Welcome.md",
-    "README.md",
-    "goodsfd.md",
     "image/没有.png",
     "image/Pasted image 20240806083248.png",
     "image/Pasted image 20240805181659.png",
